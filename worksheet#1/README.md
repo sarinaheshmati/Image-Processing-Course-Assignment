@@ -1,6 +1,3 @@
-Here's a concise README template focusing on the concepts and materials covered in the worksheet:
-
----
 
 # Image Processing Course - Assignment 1
 

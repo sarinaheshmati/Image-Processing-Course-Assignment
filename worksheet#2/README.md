@@ -15,7 +15,3 @@ This repository contains solutions to the second assignment of the Image Process
 - OpenCV
 - Matplotlib
 - NumPy
-
-## Usage
-
-Run the provided Python scripts to explore the exercises, which include image conversions, resizing, and histogram plotting.

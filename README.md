@@ -20,7 +20,7 @@ This repository contains the solutions to various assignments from the Image Pro
 - **Custom Image Rotation**: Implementing rotation without built-in functions.
 - **Contrast and Brightness Adjustment**: Enhancing visibility in low-light images.
 
-[Explore Assignment 1](./worksheet#1)
+[Explore Assignment 1]([./worksheet#1])
 
 ## Assignment 2: Image Conversion and Resizing
 

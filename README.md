@@ -30,7 +30,7 @@ This repository contains the solutions to various assignments from the Image Pro
 - **Image Resizing and Scaling**: Adjusting image dimensions and scaling while preserving aspect ratio.
 - **Histogram Analysis**: Comparing histograms of grayscale and binary images.
 
-[Explore Assignment 2](./worksheet#2)
+[Explore Assignment 2](./worksheet%2315)
 
 ## Assignment 3: Advanced Image Handling
 
@@ -41,7 +41,7 @@ This repository contains the solutions to various assignments from the Image Pro
 - **Downsampling Techniques**: Implementing and comparing different downsampling methods.
 - **Optical Character Recognition (OCR)**: Detecting and annotating characters in scanned documents.
 
-[Explore Assignment 3](./worksheet#3)
+[Explore Assignment 3](./worksheet%2315)
 
 ## Assignment 4: Image Segmentation and Interpolation
 
@@ -50,7 +50,7 @@ This repository contains the solutions to various assignments from the Image Pro
 - **Thresholding Strategies**: Fixed vs. dynamic thresholding in segmentation.
 - **Interpolation Methods**: Comparing nearest neighbor, bilinear, and bicubic interpolation.
 
-[Explore Assignment 4](./worksheet#4)
+[Explore Assignment 4](./worksheet%2315)
 
 ## Assignment 5: Point Transformations and Filtering
 
@@ -62,7 +62,7 @@ This repository contains the solutions to various assignments from the Image Pro
 - **Image Filtering**: Applying custom filters and analyzing the effects.
 - **Sobel Edge Detection**: Implementing Sobel filters for edge detection.
 
-[Explore Assignment 5](./worksheet#5)
+[Explore Assignment 5](./worksheet%2315)
 
 ## Requirements
 
